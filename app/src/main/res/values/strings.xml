@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">Mystery Helper CS408_1A</string>
+    <string name="static_text_top">Press the button to get story help…</string>
+    <string name="help_button">Get Help!</string>
+    <string-array name="hints">
+        <item>You get knocked out!</item>
+        <item>You go somewhere else</item>
+        <item>You find a dead man</item>
+        <item>You find a dead woman</item>
+        <item>You meet a buxom blonde</item>
+        <item>Someone has searched your place</item>
+        <item>A crooked cop warns you</item>
+        <item>You are arrested</item>
+        <item>You find a gun</item>
+        <item>You find a knife</item>
+        <item>You find a frayed rope</item>
+        <item>A bullet whizzes past your ear!</item>
+        <item>You are almost run over!</item>
+        <item>You are being followed</item>
+        <item>You smell a familiar perfume</item>
+        <item>The telephone rings…</item>
+        <item>There is a knock at the door</item>
+        <item>You hear footsteps behind you…</item>
+        <item>You hear a gunshot!</item>
+        <item>You hear a scream!</item>
+        <item>You sense that you are not alone…</item>
+        <item>…forget this story, it stinks!</item>
+    </string-array>
 </resources>
+
